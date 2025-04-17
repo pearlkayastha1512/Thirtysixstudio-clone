@@ -1,34 +1,33 @@
 ## 🎬 ThirtySix Studio Clone
 
-This is a responsive clone of the ThirtySix Studio website built using **React**, **Vite**, and **GSAP** for smooth and interactive animations.
+A responsive and animated clone of the **ThirtySix Studio** website, built using **React**, **Vite**, **GSAP**, and **Tailwind CSS**. This project recreates the clean, creative feel of the original studio site with smooth animations and responsive design.
 
 ### ✨ Features
 
-- Smooth scroll animations powered by GSAP
-- Clean and modern UI design
-- Fully responsive layout
-- Page transitions and micro-interactions
-- Optimized with Vite for blazing-fast development
+- Scroll-triggered animations using **GSAP**
+- Fast and modern frontend setup with **Vite**
+- Fully **responsive UI** using **Tailwind CSS**
+- Clean code structure with reusable components
+- Page transitions and hover effects for immersive feel
 
 ### 🛠️ Tech Stack
 
 - **React**
 - **Vite**
-- **GSAP**
-- **SCSS / CSS Modules** (optional, if used)
-- **Framer Motion** (optional, if you used it anywhere)
+- **Tailwind CSS**
+- **GSAP (GreenSock Animation Platform)**
 
 ### 🚀 Getting Started
 
 ```bash
-# Clone the repo
+# Clone the repository
 git clone https://github.com/your-username/thirtysix-clone.git
 
-# Navigate into the project directory
+# Navigate to the project directory
 cd thirtysix-clone
 
 # Install dependencies
 npm install
 
-# Run the development server
+# Start the development server
 npm run dev
