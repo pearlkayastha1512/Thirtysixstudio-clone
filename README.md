@@ -1,12 +1,34 @@
-# React + Vite
+## 🎬 ThirtySix Studio Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive clone of the ThirtySix Studio website built using **React**, **Vite**, and **GSAP** for smooth and interactive animations.
 
-Currently, two official plugins are available:
+### ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Smooth scroll animations powered by GSAP
+- Clean and modern UI design
+- Fully responsive layout
+- Page transitions and micro-interactions
+- Optimized with Vite for blazing-fast development
 
-## Expanding the ESLint configuration
+### 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Vite**
+- **GSAP**
+- **SCSS / CSS Modules** (optional, if used)
+- **Framer Motion** (optional, if you used it anywhere)
+
+### 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/thirtysix-clone.git
+
+# Navigate into the project directory
+cd thirtysix-clone
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
